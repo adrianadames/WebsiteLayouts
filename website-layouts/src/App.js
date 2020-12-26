@@ -1,8 +1,9 @@
+import HolyGrailFlex from './components/HolyGrailFlex';
 
 function App() {
   return (
     <>
-    null
+    <HolyGrailFlex />
     </>
   );
 }
